@@ -1,3 +1,3 @@
-var num = 50;
-num = 100;
-console.log(num);
+// var num = 50;
+// num = 100;
+// console.log(num);
