@@ -1,3 +1,5 @@
+//  Task 8: Arithmetic Operators
+
 console.log(20 + 10);
 console.log(50 - 25);
 console.log(5 * 5);
